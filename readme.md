@@ -1,3 +1,4 @@
 This is a read me file.
 This is another line on readme.
-Lionhood 
+Lionhood
+git is awesome
